@@ -1,6 +1,10 @@
+#https://stackoverflow.com/questions/24656138/python-tkinter-attach-scrollbar-to-listbox-as-opposed-to-window
+
 import requests
 import glob, os
 from collections import defaultdict
+from tkinter import *
+from tkinter.messagebox import*
 
 
 
@@ -29,13 +33,51 @@ with open(PATH) as f:
             #print(line[:line.find('/')])
             className[currentMajor][currentGroup].append(line[:line.find('/')])
 
+tkOption = []
 
 for x in className:
+    tkOption.append(x)
     print(list(className.keys()).index(x),x)
 
+master = Tk()
+master.title("Choose Majors")
+master.minsize(500, 100)
 
-firstChoice = int(input("Choose 1st major to compare"))
-secondChoice = int(input("Choose 2nd major to compare"))
+master.columnconfigure(0, weight =1)
+master.columnconfigure(1, weight =1)
+
+major1 = StringVar(master)
+major1.set(tkOption[0])
+major2 = StringVar(master)
+major2.set(tkOption[0])
+
+choice1=""
+choice2=""
+
+l1 = OptionMenu(master, major1, *tkOption)
+#l1.grid(row=0, column=0)
+l1.pack(side="left",anchor="nw")
+l2 = OptionMenu(master, major2, *tkOption)
+l2.pack(side="right",anchor="ne")
+#l2.grid(row=0, column=1)
+
+def show():
+    global choice1 
+    choice1 = major1.get()
+    global choice2
+    choice2 = major2.get()
+    master.destroy()
+    
+
+button = Button(master, text="Show", command = show)
+button.pack(side="bottom")
+
+mainloop()
+print("a",choice1)
+print("b",choice2)
+
+firstChoice = int(list(className.keys()).index(choice1))
+secondChoice = int(list(className.keys()).index(choice2))
 
 
 allClass = []
@@ -146,3 +188,38 @@ while className[list(className)[secondChoice]]:
 allClass.sort()
 print(allClass)
 #className = defaultdict(lambda: defaultdict(list))
+
+main = Tk()
+frame = Frame(main)
+frame.pack()
+main.title("Class list")
+
+fname = "backGround.gif"
+bg_image = PhotoImage(file=fname)
+# get the width and height of the image
+w = bg_image.width()
+h = bg_image.height()
+
+
+listNodes = Listbox(frame, width=20, height=20, font=("Helvetica", 12))
+listNodes.pack(side="left", fill="y")
+
+scrollbar = Scrollbar(frame, orient="vertical")
+scrollbar.config(command=listNodes.yview)
+scrollbar.pack(side="right", fill="y")
+#listbox = Listbox(main, width = 50, height = 20, yscrollcommand=scrollbar.set)
+#listbox.pack()
+
+listNodes.config(yscrollcommand=scrollbar.set)
+
+for classes in allClass:
+    listNodes.insert(END, classes)
+
+def exit():
+    main.destroy()
+
+button = Button(main, text="Exit", command = exit)
+button.pack()
+mainloop()
+
+

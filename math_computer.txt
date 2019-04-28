@@ -277,14 +277,18 @@ MA 171
 MA 172
 MA 256
 MA 278
+course:11
 MA 281
 MA 430W
+course:0
 BI 140
 BI 141
 BI 363
+course:31
 BI 333
 BI 399
 MA 352
+course:0
 CH 161
 CH 181
 CH 271
@@ -314,7 +318,7 @@ AR 124
 AR 323
 AR 324
 AR 326
-couse:31
+course:31
 CS 273
 CS 301
 CS 320

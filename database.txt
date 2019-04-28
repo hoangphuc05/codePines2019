@@ -1,3 +1,678 @@
+major:Art Major, B.A.
+course:0
+AR 101
+AR 120
+AR 220
+AR 259
+AR 261
+AR 263
+AR 365W
+AR 399
+AR 460
+course:11
+AR 120
+AR 231
+end.
+major:Track I: Two-Dimensional (Drawing/Painting and Printmaking)
+cousre:0
+AR 210
+AR 221
+AR 499H
+course:11
+AR 201
+AR 231
+AR 302
+course:31
+AR 301
+AR 401
+AR 402	
+AR 491
+course:32
+AR 211
+AR 310
+AR 311	
+AR 410
+AR 411
+AR 491
+course:33
+AR 321
+AR 421
+AR 491
+end.
+major:Track II: Graphic Design
+course:0
+suggested:
+AR 210
+AR 221
+AR 499H
+course:21
+AR 201
+AR 302
+course:22
+AR 231
+AR 124
+course:31
+AR 323
+AR 324
+AR 326
+AR 423
+AR 424
+AR 426
+suggested:
+AR 227
+AR 327
+AR 331
+AR 427
+AR 431
+end.
+major:Track III: Three-Dimensional (Ceramics, Sculpture, Glass)
+course:0
+AR 143
+AR 355
+AR 455
+AR 499H
+course:21
+AR 240
+AR 241
+course:31
+AR 227
+AR 243
+AR 315H
+AR 327
+AR 340
+AR 341
+AR 343
+AR 427
+AR 440
+AR 441
+AR 443
+end.
+major:Arts Administration Major - Art Emphasis, B.A.
+course:0
+AR 120
+course:11
+AR 124	
+AR 231
+course:12
+AR 101
+AR 220
+AR 355
+AR 259
+course:21
+AR 261
+AR 263
+AR 266
+AR 315H
+AR 365W
+AR 390
+AR 435
+CS 110
+BU 250
+course:31
+AR 260
+AR 264
+AR 267
+AR 268
+AR 269
+BU 231
+BU 301
+JMC 244
+SO 315
+end.
+major:Visual Design in Computing Major, B.A.
+course:0
+AR 101
+AR 120
+AR 124
+AR 323
+AR 324
+AR 326
+CS 171
+CS 172
+CS 274
+CS 344
+course:21
+AR 210
+AR 220
+AR 227
+AR 231
+AR 426
+course:31
+CS 273
+CS 301
+CS 320
+CS 371
+CS 372
+CS 376
+suggested:
+CS 313
+CS 314
+CS 357
+CS 360
+course:11
+AR 365W
+CS 499W
+CS 475W
+course:12
+AR 390
+CS 390
+course:13
+AR 499H
+CS 472
+end.
+major:Art History Major, B.A.
+course:0
+AR 366
+AR 365W
+AR 491
+HI 102
+HI 212
+HI 210
+course:11
+AR 261
+AR 361
+course:12
+AR 263
+AR 363
+course:13
+AR 268
+AR 368
+course:14
+AR 390
+HI 494
+end.
+major:Asian Studies Minor
+course:0
+AS 102
+AS 104
+AS 105
+AS 114
+AS 304W
+AS 305W
+AS 345
+AS 256
+AS 346
+AS 344
+AS 347
+end.
+major:Biology Major, B.S.
+course:0
+BI 140
+BI 141
+CH 161
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+PS 151
+PS 151L
+PS 153
+EDU 455W
+course:11
+BI 345
+BI 347
+course:12
+BI 363
+BI 399
+course:13
+BI 323
+BI 331
+BI 447
+course:14
+BI 354
+BI 399
+BI 412
+course:15
+BI 311
+CH 401
+course:16
+PS 153L
+PS 154L
+end.
+major:Biology Minor
+course:0
+BI 140
+BI 141
+CH 161
+CH 161L
+MA 256
+EDU 455W
+PS 151
+PS 151L
+PS 153
+PS 153L
+PS 141
+course:11
+CH 271
+CH 181
+course:12
+GL 131
+GL 139
+NS 101
+end.
+major:Environmental Studies Minor
+course:0
+ENS 120
+ENS 250
+course:11
+ENS 212
+ENS 214
+course:12
+ENS 102
+ENS 105
+ENS 111
+ENS 303
+ENS 304
+ENS 305
+ENS 324
+ENS 331
+ENS 341
+ENS 345
+ENS 369
+ENS 448
+ENS 112
+ENS 113
+ENS 122
+ENS 332
+ENS 131
+ENS 139
+ENS 101
+ENS 146
+course:13
+ENS 347
+ENS 353
+ENS 275
+ENS 110
+ENS 310
+EC 381
+ENS 384
+course:14
+EDU 343
+EDU 455W
+EDU 410
+end.
+major:Accounting Concentration, BBA
+course:0
+CS 125
+MA 256
+BU 218
+BU 230
+BU 231
+BU 240
+BU 274
+EL 211
+BU 311
+BU 357
+BU 410
+BU 450W
+EC 210
+EC 211
+BU 338
+BU 406
+BU 490
+BU 332
+BU 333
+BU 334
+BU 335
+BU 336
+BU 466W
+course:11
+MA 158
+MA 171
+course:12
+MA 108
+MA 150
+MA 158
+MA 171
+course:13
+BU 320
+BU 377
+BU 434
+BU 435
+BU 436
+end.
+major:Management Concentration, BBA
+course:0
+CS 125
+MA 256
+BU 218
+BU 230
+BU 231
+BU 240
+BU 274
+EL 211
+BU 311
+BU 357
+BU 410
+BU 450W
+EC 210
+EC 211
+BU 338
+BU 406
+BU 490
+BU 373
+BU 376
+BU 425
+course:11
+MA 158
+MA 171
+course:12
+MA 108
+MA 150
+MA 158
+MA 171
+course:13
+BU 365
+BU 402
+BU 463
+end.
+major:Economics Concentration, BBA
+course:0
+CS 125
+MA 256
+BU 218
+BU 230
+BU 231
+BU 240
+BU 274
+EL 211
+BU 311
+BU 357
+BU 410
+BU 450W
+EC 210
+EC 211
+BU 338
+BU 406
+BU 490
+EC 320
+EC 321
+EC 402
+EC 416
+course:11
+MA 158
+MA 171
+course:12
+MA 108
+MA 150
+MA 158
+MA 171
+end.
+major:Marketing Concentration, BBA
+course:0
+CS 125
+MA 256
+BU 218
+BU 230
+BU 231
+BU 240
+BU 274
+EL 211
+BU 311
+BU 357
+BU 410
+BU 450W
+EC 210
+EC 211
+BU 338
+BU 406
+BU 490
+BU 343
+BU 301
+BU 448
+BU 489
+course:11
+MA 158
+MA 171
+course:12
+MA 108
+MA 150
+MA 158
+MA 171
+end.
+major:Finance Concentration, BBA
+course:0
+CS 125
+MA 256
+BU 218
+BU 230
+BU 231
+BU 240
+BU 274
+EL 211
+BU 311
+BU 357
+BU 410
+BU 450W
+EC 210
+EC 211
+BU 338
+BU 406
+BU 490
+BU 367
+BU 377
+BU 387
+BU 467
+BU 477
+course:11
+MA 158
+MA 171
+course:12
+MA 108
+MA 150
+MA 158
+MA 171
+end.
+major:Accounting Minor
+course:0
+BU 230
+BU 231
+BU 334
+BU 336
+course:21
+BU 320
+BU 332
+BU 333
+BU 335
+BU 377
+BU 436
+end.
+major:General Business Minor
+course:0
+BU 218
+BU 230
+EC 210
+course:11
+MA 108
+MA 150
+MA 158
+MA 171
+course:31
+BU 231
+BU 240
+BU 274
+BU 357
+EC 211
+end.
+major:Chemistry Major, B.A.
+course:0
+MA 171
+MA 172
+PS 151
+PS 151L
+PS 153
+CH 331
+CH 401
+CH 401L
+CH 403
+EN 121
+MA 256
+EDU 455W
+course:11
+CH 161
+CH 161H
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+CH 278
+CH 278L
+CH 315
+CH 381
+CH 481
+course:12
+PS 153L
+PS 154L
+end.
+major:General Track for Chemistry, B.S.
+course:11
+CH 161
+CH 161H
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+CH 278
+CH 278L
+CH 315
+CH 381
+CH 481
+CH 494L
+CH 488L
+MA 171
+MA 172
+PS 151
+PS 151L
+PS 153
+CH 331
+CH 401
+CH 401L
+CH 403
+EN 121
+MA 256
+EDU 455W
+course:12
+PS 153L
+PS 154L
+course:0
+CH 335
+CH 335L
+CH 336
+CH 336L
+CH 351
+CH 351L
+CH 401
+CH 401L
+CH 421
+CH 421L
+CH 423
+CH 423L
+course:11
+MA 273
+PS 251W
+end.
+major:Biochemistry Track for Chemistry, B.S.
+course:11
+CH 161
+CH 161H
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+CH 278
+CH 278L
+CH 315
+CH 381
+CH 481
+CH 494L
+CH 488L
+MA 171
+MA 172
+PS 151
+PS 151L
+PS 153
+CH 331
+CH 401
+CH 401L
+CH 403
+EN 121
+MA 256
+EDU 455W
+course:12
+PS 153L
+PS 154L
+course:0
+CH 401
+CH 401L
+CH 403
+CH 421
+CH 421L
+course:21
+CH 331
+CH 335
+CH 336
+CH 340
+CH 351
+CH 423
+BI 140
+BI 141
+course:11
+BI 354
+BI 363
+BI 399
+BI 404
+BI 412
+BI 447
+end.
+major:Physical Chemistry Track for Chemistry, B.S.
+course:11
+CH 161
+CH 161H
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+CH 278
+CH 278L
+CH 315
+CH 381
+CH 481
+CH 494L
+CH 488L
+MA 171
+MA 172
+PS 151
+PS 151L
+PS 153
+CH 331
+CH 401
+CH 401L
+CH 403
+EN 121
+MA 256
+EDU 455W
+course:12
+PS 153L
+PS 154L
+course:0
+CH 421
+CH 421L
+CH 423
+CH 423L
+course:21
+CH 331
+CH 335
+CH 336
+CH 340
+CH 351
+MA 273
+PS 251W
+end.
 major:Mathematics - General, B.A.
 course:0
 MA 171
@@ -64,4 +739,590 @@ MA 430W
 MA 440
 MA 441
 end.
+major:Mathematics Major, B.S.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 281
+MA 294
+course:31
+MA 410
+MA 411
+MA 440
+MA 441
+course:41
+MA 317
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 365
+MA 410
+MA 411
+MA 430W
+MA 440
+MA 441
+MA 362
+CS 499W
+EN 356 & EN 358
+course:11
+EC 210 & EC 211
+PS 151 & 151L & PS 153 & PS 153L
+end.
+major:Mathematical Economics Major, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 256
+MA 278
+MA 281
+MA 294
+MA 330
+MA 357
+MA 358W
+CS 171
+CS 172
+EC 210
+EC 211
+EC 320
+EC 321
+EC 402
+course:21
+EC 301
+EC 381
+EC 416
+EC 325
+CS 273
+CS 374
+MA 350
+MA 352
+MA 390
+MA 490
+end.
+major:Computer Science Major, B.A. - International Project Management Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 376
+BU 274
+BU 230
+BU 311
+MA 256
+SP 398
+CS 360
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
 suggested:
+CS 294
+CS 301
+CS 313
+BU 231
+end.
+major:Computer Science Major, B.A. - Business Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 376
+BU 230
+BU 274
+BU 231
+BU 333
+EC 210
+EC 211
+MA 256
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
+suggested:
+CS 294
+CS 301
+CS 313
+end.
+major:Computer Science Major, B.A. - Network Systems Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 313
+CS 314
+CS 315
+CS 373
+CS 401
+MA 256
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
+suggested:
+CS 294
+CS 376
+end.
+major:Computer Science Major, B.S.
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 373
+CS 401
+CS 473
+MA 171
+MA 172
+MA 278
+MA 330
+PS 151
+PS 151L
+PS 153
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+PS 153L
+PS 154L
+course:13
+CS 313
+CS 357
+CS 457
+course:14
+MA 350
+MA 410
+MA 430W
+suggested:
+CS 294
+MA 256
+MA 273
+CS 315
+CS 499W
+end.
+major:Bioinformatics Major, B.S.
+course:0
+CS 171
+CS 172
+CS 273
+CS 355
+CS 374
+CS 472
+CS 473
+MA 171
+MA 172
+MA 256
+MA 278
+MA 281
+MA 430W
+BI 140
+BI 141
+BI 363
+BI 333
+BI 399
+MA 352
+CH 161
+CH 181
+CH 271
+CH 278
+CH 401
+suggested:
+CH 161L
+CH 181L
+CH 271L
+CH 278L
+CH 401L
+PS 151
+PS 151L
+PS 153
+PS 153L
+PS 154L
+end.
+major:Human-Computer Interaction Major, B.A.
+course:0
+CS 171
+CS 172
+CS 274
+CS 344
+AR 101
+AR 120
+AR 124
+AR 323
+AR 324
+AR 326
+couse:31
+CS 273
+CS 301
+CS 320
+CS 371
+CS 372
+CS 376
+course:21
+AR 210
+AR 220
+AR 227
+AR 231
+AR 426
+course:11
+AR 365W
+CS 499W
+CS 475W
+course:12
+CS 390
+AR 390
+course:13
+CS 472
+AR 499H
+suggested:
+CS 313
+CS 314
+CS 357
+CS 360
+end.
+major:Mathematics Minor
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+MA 365
+course:11
+MA 256
+MA 281
+EDU 341
+EDU 454
+end.
+major:Information Technology Minor
+course:0
+CS 171
+CS 172
+CS 313
+CS 374
+course:31
+CS 301
+CS 314
+CS 315
+CS 371
+CS 372
+end.
+major:Physics Major, B.A.
+course:0
+PS 151
+PS 151L
+PS 153
+PS 251W
+MA 171
+MA 172
+MA 273
+MA 281
+CH 161
+CH 161L
+MA 256
+EDU 455W
+EN 121
+course:11
+PS 153L
+PS 154L
+course:51
+PS 351
+PS 353
+PS 361
+PS 363
+PS 371
+PS 451
+PS 453
+PS 455
+EN 271
+EN 356
+EN 358
+end.
+major:Applied Physics Major, B.A.
+course:0
+EN 130
+PS 151
+PS 151L
+PS 153
+course:11
+PS 153L
+PS 154L	
+PS 251W
+MA 171
+MA 172
+MA 273
+MA 281
+CH 161
+CH 161L
+CS 171
+course:12
+EN 171
+CS 172
+CH 181
+course:13
+EN 211
+EN 230
+EN 271
+EN 173
+course:21
+EN 356
+EN 358
+MA 330
+MA 357
+end.
+major:Physics Major, B.S.
+course:0
+PS 151
+PS 151L
+PS 153
+PS 251W
+PS 351
+PS 353
+PS 363
+PS 451
+PS 453
+PS 455
+PS 388
+PS 393
+MA 171
+MA 172
+MA 273
+MA 281
+EN 356
+EN 358
+CH 161
+CH 161L
+CH 181
+MA 256
+EDU 455W
+EN 121
+course:11
+PS 153L
+PS 154L
+course:21
+EN 271
+PS 361
+PS 371
+end.
+major:Biophysics Major, B.S.
+course:0
+PS 151
+PS 151L
+PS 153
+PS 251W
+MA 171
+MA 172
+MA 273
+CH 161
+CH 161L
+CH 181
+CH 181L
+CH 271
+CH 271L
+BI 140
+BI 141
+MA 281
+course:11
+PS 153L
+PS 154L
+course:12
+BI 311
+CH 401
+course:41
+BI 363
+BI 399
+BI 404
+BI 412
+CH 278
+CH 403
+EN 230
+EN 271
+PS 351
+PS 361
+PS 371
+PS 451
+PS 455
+end.
+major:Engineering Major, B.S.
+course:0
+MA 171
+MA 172
+MA 273
+MA 281
+CH 161
+CS 171
+PS 151
+PS 151L
+PS 153
+PS 251W
+EN 130
+EN 171
+EN 211
+EN 230
+EN 230L
+EN 287
+EN 300
+EN 320
+EN 321L
+EN 330
+EN 330L
+EN 335
+EN 351
+EN 356
+EN 358
+EN 388
+EN 393
+EN 484
+EN 487H
+course:11
+PS 153L
+PS 154L
+course:12
+EN 173
+EN 181
+EN 271
+course:13
+EN 311
+CS 373
+course:14
+EN 411
+PS 451
+course:15
+PS 353
+PS 361
+PS 371
+PS 453
+PS 455
+end.
+major:Physics Minor
+course:0
+PS 151
+PS 151L
+PS 153
+PS 251W
+MA 256
+MA 273
+EDU 455W
+MA 281
+EN 121
+course:11
+PS 153L
+PS 154L
+end.
+major:Psychology Major, B.A.
+course:0
+PY 101
+PY 210
+PY 225
+PY 227
+PY 236
+PY 241
+PY 201
+PY 301
+PY 400
+PY 401W
+PY 402
+end.
+major:Social Analysis Track 
+course:0
+SO 120
+SO 320
+SO 337W
+SO 338
+SO 203
+SO 205
+SO 220
+SO 252
+SO 230
+SO 283
+SO 311
+SO 343
+SO 430
+SO 437
+SO 438
+end.
+major:Social Service and Community Action Track
+course:0
+SO 120
+SO 320
+SO 337W
+SO 338
+SO 205
+SO 271
+SO 368
+SO 425
+SO 475
+end.
+major:Global Sociology Track
+course:0
+SO 120
+SO 320
+SO 337W
+SO 338
+SO 203
+SO 238
+SO 425
+SO 475
+PO 151
+PO 353
+PO 425W
+end.
+major:Criminology & Criminal Justice Major, B.A.
+course:0
+SO 120
+SO 220
+SO 252
+SO 283
+SO 337W
+SO 338
+SO 370
+SO 396
+SO 396
+course:21
+BU 250
+PO 102
+PO 223
+PO 464W
+course:11
+SO 410
+SP 223
+SP 323
+end.
