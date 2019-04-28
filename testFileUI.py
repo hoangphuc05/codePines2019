@@ -54,10 +54,19 @@ major2.set(tkOption[0])
 choice1=""
 choice2=""
 
-l1 = OptionMenu(master, major1, *tkOption)
+fname = "backGround.gif"
+bg_image = PhotoImage(file=fname)
+# get the width and height of the image
+w = bg_image.width()
+h = bg_image.height()
+
+panel = Label(master, image = bg_image)
+panel.pack(side='top', fill='both', expand='yes')
+
+l1 = OptionMenu(panel, major1, *tkOption)
 #l1.grid(row=0, column=0)
 l1.pack(side="left",anchor="nw")
-l2 = OptionMenu(master, major2, *tkOption)
+l2 = OptionMenu(panel, major2, *tkOption)
 l2.pack(side="right",anchor="ne")
 #l2.grid(row=0, column=1)
 
@@ -69,7 +78,7 @@ def show():
     master.destroy()
     
 
-button = Button(master, text="Show", command = show)
+button = Button(panel, text="Show", command = show)
 button.pack(side="bottom")
 
 mainloop()
@@ -200,17 +209,20 @@ bg_image = PhotoImage(file=fname)
 w = bg_image.width()
 h = bg_image.height()
 
+panel = Label(main, image = bg_image)
+panel.pack(side='top', fill='both', expand='yes')
 
-listNodes = Listbox(frame, width=20, height=20, font=("Helvetica", 12))
-listNodes.pack(side="left", fill="y")
 
-scrollbar = Scrollbar(frame, orient="vertical")
+listNodes = Listbox(panel, width=20, height=20, font=("Helvetica", 12))
+#listNodes.pack(side="left", fill="y")
+
+scrollbar = Scrollbar(panel, orient="vertical")
 scrollbar.config(command=listNodes.yview)
-scrollbar.pack(side="right", fill="y")
+#scrollbar.pack(side="right", fill="y")
 #listbox = Listbox(main, width = 50, height = 20, yscrollcommand=scrollbar.set)
 #listbox.pack()
 
-listNodes.config(yscrollcommand=scrollbar.set)
+listNodes.config(yscrollcommand=scrollbar.set, width = 25)
 
 for classes in allClass:
     listNodes.insert(END, classes)
@@ -218,8 +230,11 @@ for classes in allClass:
 def exit():
     main.destroy()
 
-button = Button(main, text="Exit", command = exit)
-button.pack()
+button = Button(panel, text="Exit", command = exit)
+button.pack(side = "bottom")
+scrollbar.pack(side="right", fill="y")
+listNodes.pack( anchor="w", fill="both", pady=25)
+#scrollbar.pack(side="right", fill="y")
 mainloop()
 
 
