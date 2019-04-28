@@ -1,109 +1,109 @@
 major:Art Major, B.A.
 course:0
-AR 101 Drawing 1
-AR 120
-AR 220
-AR 259
-AR 261
-AR 263
-AR 365W
-AR 399
-AR 460
+AR 101 Drawing I	3
+AR 120 2-D Design	3
+AR 220 3-D Design	3
+AR 259 Seminar I	1
+AR 261 History of Renaissance and Baroque Art	3
+AR 263 History of Modern Art	3
+AR 365W Contemporary Art Seminar	3
+AR 399 Junior Exhibition Project	1
+AR 460 Seminar	3
 course:11
-AR 120
-AR 231
+AR 120 2-D Design	3
+AR 231 Digital Photography I 	3
 end.
 major:Track I: Two-Dimensional (Drawing/Painting and Printmaking)
 cousre:0
-AR 210
-AR 221
-AR 499H
+AR 210 Painting I	3
+AR 221 Introduction to Printmaking I: Relief and Intaglio	3
+AR 499H Senior Exhibition Project	2
 course:11
-AR 201
-AR 231
-AR 302
+AR 201 Drawing II	3
+AR 231 Digital Photography I 	3
+AR 302 Figure Drawing I	3
 course:31
-AR 301
-AR 401
-AR 402	
-AR 491
+AR 301 Drawing III	3
+AR 401 Drawing IV	3
+AR 402 Figure Drawing II	3
+AR 491 Independent Study	1-4
 course:32
-AR 211
-AR 310
-AR 311	
-AR 410
-AR 411
-AR 491
+AR 211 Watercolor I	3
+AR 310 Painting II	3
+AR 311 Watercolor II	3
+AR 410 Painting III	3
+AR 411 Watercolor III	3
+AR 491 Independent Study	1-4
 course:33
-AR 321
-AR 421
-AR 491
+AR 321 Intermediate Printmaking 3
+AR 421 Advanced Printmaking	3
+AR 491 Independent Study	1-4
 end.
 major:Track II: Graphic Design
 course:0
 suggested:
-AR 210
-AR 221
-AR 499H
+AR 210  Painting I	3
+AR 221 Introduction to Printmaking I: Relief and Intaglio	3
+AR 499H Senior Exhibition Project	2
 course:21
-AR 201
-AR 302
+AR 201 Drawing II	3
+AR 302  Figure Drawing I	3
 course:22
-AR 231
-AR 124
+AR 231 Digital Photography I 	3
+AR 124 Adobe Creative Suite	3
 course:31
-AR 323
-AR 324
-AR 326
-AR 423
-AR 424
-AR 426
+AR 323 Typography I	3
+AR 324 Graphic Design I	3
+AR 326 Web Design I	3
+AR 423 Typography II	3
+AR 424 Graphic Design II	3
+AR 426 Web Design II	3
 suggested:
-AR 227
-AR 327
-AR 331
-AR 427
-AR 431
+AR 227 Intro to Time-Based Art Making	3
+AR 327 Interm Time-Based Art Making	3
+AR 331 Digital Photography II	3
+AR 427 Advanced Time-Based Art Making	3
+AR 431 Digital Photography III	3
 end.
 major:Track III: Three-Dimensional (Ceramics, Sculpture, Glass)
 course:0
-AR 143
-AR 355
-AR 455
-AR 499H
+AR 143 Glass I	3
+AR 355 Sculpture I	3
+AR 455 Sculpture II	3
+AR 499H Senior Exhibition Project	2
 course:21
-AR 240
-AR 241
+AR 240 Ceramics (Wheelwork) I	3
+AR 241 Ceramics (Hand Building) I (3 Credits)
 course:31
-AR 227
-AR 243
-AR 315H
-AR 327
-AR 340
-AR 341
-AR 343
-AR 427
+AR 227 Intro to Time-Based Art Making	3
+AR 243 Glass II (3 Credits)
+AR 315H Community Arts in Practice (3 Credits)
+AR 327 Interm Time-Based Art Making	3
+AR 340 Ceramics (Wheelwork) II (3 Credits)
+AR 341 Ceramics (Handbuilding) II (3 Credits)
+AR 343 Glass III (3 Credits)
+AR 427 Advanced Time-Based Art Making	3
 AR 440
 AR 441
 AR 443
 end.
 major:Arts Administration Major - Art Emphasis, B.A.
 course:0
-AR 120
+AR 120  2-D Design	3
 course:11
-AR 124	
-AR 231
+AR 124 Adobe Creative Suite	3
+AR 231 Digital Photography I 	3
 course:12
-AR 101
-AR 220
-AR 355
-AR 259
+AR 101 Drawing I	3
+AR 220 3-D Design	3
+AR 355 Sculpture I	3
+AR 259 Seminar I	1
 course:21
-AR 261
-AR 263
+AR 261 History of Renaissance and Baroque Art	3
+AR 263 History of Modern Art	3
 AR 266
-AR 315H
-AR 365W
+AR 315H Community Arts in Practice (3 Credits)
+AR 365W Contemporary Art Seminar	3
 AR 390
 AR 435
 CS 110
@@ -121,22 +121,22 @@ SO 315
 end.
 major:Visual Design in Computing Major, B.A.
 course:0
-AR 101
-AR 120
-AR 124
-AR 323
-AR 324
-AR 326
+AR 101 Drawing I	3
+AR 120  2-D Design	3
+AR 124 Adobe Creative Suite	3
+AR 323 Typography I	3
+AR 324 Graphic Design I	3
+AR 326 Web Design I	3
 CS 171
 CS 172
 CS 274
 CS 344
 course:21
-AR 210
-AR 220
-AR 227
-AR 231
-AR 426
+AR 210 Painting I	3
+AR 220 3-D Design	3
+AR 227 Intro to Time-Based Art Making	3
+AR 231 Digital Photography I 	3
+AR 426 Web Design II	3
 course:31
 CS 273
 CS 301
@@ -150,29 +150,29 @@ CS 314
 CS 357
 CS 360
 course:11
-AR 365W
+AR 365W Contemporary Art Seminar	3
 CS 499W
 CS 475W
 course:12
 AR 390
 CS 390
 course:13
-AR 499H
+AR 499H Senior Exhibition Project	2
 CS 472
 end.
 major:Art History Major, B.A.
 course:0
 AR 366
-AR 365W
-AR 491
+AR 365W Contemporary Art Seminar	3
+AR 491 Independent Study	1-4
 HI 102
 HI 212
 HI 210
 course:11
-AR 261
+AR 261 History of Renaissance and Baroque Art	3
 AR 361
 course:12
-AR 263
+AR 263 History of Modern Art	3
 AR 363
 course:13
 AR 268
@@ -319,12 +319,12 @@ BU 336
 BU 466W
 course:11
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:12
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:13
 BU 320
 BU 377
@@ -356,12 +356,12 @@ BU 376
 BU 425
 course:11
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:12
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:13
 BU 365
 BU 402
@@ -392,12 +392,12 @@ EC 402
 EC 416
 course:11
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:12
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 end.
 major:Marketing Concentration, BBA
 course:0
@@ -424,12 +424,12 @@ BU 448
 BU 489
 course:11
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:12
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 end.
 major:Finance Concentration, BBA
 course:0
@@ -457,12 +457,12 @@ BU 467
 BU 477
 course:11
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:12
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 end.
 major:Accounting Minor
 course:0
@@ -487,7 +487,7 @@ course:11
 MA 108
 MA 150
 MA 158
-MA 171
+MA 171 Calculus I (4 Credits)
 course:31
 BU 231
 BU 240
@@ -497,7 +497,7 @@ EC 211
 end.
 major:Chemistry Major, B.A.
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 PS 151
 PS 151L
@@ -542,7 +542,7 @@ CH 381
 CH 481
 CH 494L
 CH 488L
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 PS 151
 PS 151L
@@ -590,7 +590,7 @@ CH 381
 CH 481
 CH 494L
 CH 488L
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 PS 151
 PS 151L
@@ -644,7 +644,7 @@ CH 381
 CH 481
 CH 494L
 CH 488L
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 PS 151
 PS 151L
@@ -675,42 +675,42 @@ PS 251W
 end.
 major:Mathematics - General, B.A.
 course:0
-MA 171
-MA 172
-MA 273
-MA 278
-MA 330
-CS 171
-CS 172
-MA 256
+MA 171 Calculus I (4 Credits)
+MA 172 Calculus II (4 Credits)
+MA 273 Calculus III (4 Credits)
+MA 278 Discrete Mathematics (3 Credits)
+MA 330 Linear Algebra (3 Credits)
+CS 171 Computer Science I (3 Credits)
+CS 172 Computer Science II (3 Credits)
+MA 256 Elem Probability & Statistics (3 Credits)
 course:21
-MA 317
-MA 357
-MA 410
-MA 430W
-MA 440
+MA 317 Intro to Complex Variables (3 Credits)
+MA 357 Mathematical Statistics I (3 Credits)
+MA 410 Abstract Algebra I (3 Credits)
+MA 430W Graph Theory & Combinatorics (3 Credits)
+MA 440 Real Analysis I (3 Credits)
 course:31
-MA 281
-MA 329
-MA 350
-MA 352
-MA 357
-MA 358W
-MA 360
-MA 362
-MA 365
-MA 410
-MA 411
-MA 440
-MA 441
-CS 473
-CS 499W
-EN 356
-EN 358
+MA 281 Differential Equations (3 Credits)
+MA 329 Math History (3 Credits)
+MA 350 Numerical Analysis (3 Credits)
+MA 352 Intro to Mathematical Biology (3 Credits)
+MA 357 Mathematical Statistics I (3 Credits)
+MA 358W Mathematical Statistics II (3 Credits)
+MA 360 Number Theory (3 Credits)
+MA 362 Cryptography (3 Credits)
+MA 365 Geometry (3 Credits)
+MA 410 Abstract Algebra I (3 Credits)
+MA 411 Abstract Algebra II (3 Credits)
+MA 440 Real Analysis I (3 Credits)
+MA 441 Real Analysis II (3 Credits)
+CS 473 Adv Algorithm Design & Analy (3 Credits)
+CS 499W Research Methods (3 Credits)
+EN 356 Mathematical Methods I (2 Credits)
+EN 358 Mathematical Methods II (2 Credits)
 end.
 major:Mathematics - Education, B.A.
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 278
@@ -741,7 +741,7 @@ MA 441
 end.
 major:Mathematics Major, B.S.
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 278
@@ -778,7 +778,7 @@ PS 151 & 151L & PS 153 & PS 153L
 end.
 major:Mathematical Economics Major, B.A.
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 256
@@ -831,7 +831,7 @@ CS 372
 course:12
 MA 150
 MA 158
-MA 171 
+MA 171  Calculus I (4 Credits)
 suggested:
 CS 294
 CS 301
@@ -863,7 +863,7 @@ CS 372
 course:12
 MA 150
 MA 158
-MA 171 
+MA 171  Calculus I (4 Credits)
 suggested:
 CS 294
 CS 301
@@ -892,7 +892,7 @@ CS 372
 course:12
 MA 150
 MA 158
-MA 171 
+MA 171  Calculus I (4 Credits)
 suggested:
 CS 294
 CS 376
@@ -910,7 +910,7 @@ CS 475W
 CS 373
 CS 401
 CS 473
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 278
 MA 330
@@ -948,7 +948,7 @@ CS 355
 CS 374
 CS 472
 CS 473
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 256
 MA 278
@@ -983,12 +983,12 @@ CS 171
 CS 172
 CS 274
 CS 344
-AR 101
-AR 120
-AR 124
-AR 323
-AR 324
-AR 326
+AR 101 Drawing I	3
+AR 120  2-D Design	3
+AR 124 Adobe Creative Suite	3
+AR 323 Typography I	3
+AR 324 Graphic Design I	3
+AR 326 Web Design I	3
 couse:31
 CS 273
 CS 301
@@ -997,13 +997,13 @@ CS 371
 CS 372
 CS 376
 course:21
-AR 210
-AR 220
-AR 227
-AR 231
-AR 426
+AR 210 Painting I	3
+AR 220 3-D Design	3
+AR 227 Intro to Time-Based Art Making	3
+AR 231 Digital Photography I 	3
+AR 426 Web Design II	3
 course:11
-AR 365W
+AR 365W Contemporary Art Seminar	3
 CS 499W
 CS 475W
 course:12
@@ -1011,7 +1011,7 @@ CS 390
 AR 390
 course:13
 CS 472
-AR 499H
+AR 499H Senior Exhibition Project	2
 suggested:
 CS 313
 CS 314
@@ -1020,7 +1020,7 @@ CS 360
 end.
 major:Mathematics Minor
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 278
@@ -1051,7 +1051,7 @@ PS 151
 PS 151L
 PS 153
 PS 251W
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 281
@@ -1086,7 +1086,7 @@ course:11
 PS 153L
 PS 154L	
 PS 251W
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 281
@@ -1122,7 +1122,7 @@ PS 453
 PS 455
 PS 388
 PS 393
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 281
@@ -1148,7 +1148,7 @@ PS 151
 PS 151L
 PS 153
 PS 251W
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 CH 161
@@ -1183,7 +1183,7 @@ PS 455
 end.
 major:Engineering Major, B.S.
 course:0
-MA 171
+MA 171 Calculus I (4 Credits)
 MA 172
 MA 273
 MA 281
