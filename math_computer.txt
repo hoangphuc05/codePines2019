@@ -1,0 +1,385 @@
+major:Mathematics - General, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 256
+course:21
+MA 317
+MA 357
+MA 410
+MA 430W
+MA 440
+course:31
+MA 281
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 362
+MA 365
+MA 410
+MA 411
+MA 440
+MA 441
+CS 473
+CS 499W
+EN 356
+EN 358
+end.
+major:Mathematics - Education, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 256
+MA 365
+course:11
+MA 357
+MA 410
+MA 440
+course:31
+MA 281
+MA 317
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 362
+MA 410
+MA 411
+MA 430W
+MA 440
+MA 441
+end.
+major:Mathematics Major, B.S.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 281
+MA 294
+course:31
+MA 410
+MA 411
+MA 440
+MA 441
+course:41
+MA 317
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 365
+MA 410
+MA 411
+MA 430W
+MA 440
+MA 441
+MA 362
+CS 499W
+EN 356 & EN 358
+course:11
+EC 210 & EC 211
+PS 151 & 151L & PS 153 & PS 153L
+end.
+major:Mathematical Economics Major, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 256
+MA 278
+MA 281
+MA 294
+MA 330
+MA 357
+MA 358W
+CS 171
+CS 172
+EC 210
+EC 211
+EC 320
+EC 321
+EC 402
+course:21
+EC 301
+EC 381
+EC 416
+EC 325
+CS 273
+CS 374
+MA 350
+MA 352
+MA 390
+MA 490
+end.
+major:Computer Science Major, B.A. - International Project Management Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 376
+BU 274
+BU 230
+BU 311
+MA 256
+SP 398
+CS 360
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
+suggested:
+CS 294
+CS 301
+CS 313
+BU 231
+end.
+major:Computer Science Major, B.A. - Business Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 376
+BU 230
+BU 274
+BU 231
+BU 333
+EC 210
+EC 211
+MA 256
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
+suggested:
+CS 294
+CS 301
+CS 313
+end.
+major:Computer Science Major, B.A. - Network Systems Option
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 313
+CS 314
+CS 315
+CS 373
+CS 401
+MA 256
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+MA 150
+MA 158
+MA 171 
+suggested:
+CS 294
+CS 376
+end.
+major:Computer Science Major, B.S.
+course:0
+CS 171
+CS 172
+CS 273
+CS 274
+CS 278
+CS 374
+CS 472
+CS 475W
+CS 373
+CS 401
+CS 473
+MA 171
+MA 172
+MA 278
+MA 330
+PS 151
+PS 151L
+PS 153
+course:11
+CS 370
+CS 371
+CS 372
+course:12
+PS 153L
+PS 154L
+course:13
+CS 313
+CS 357
+CS 457
+course:14
+MA 350
+MA 410
+MA 430W
+suggested:
+CS 294
+MA 256
+MA 273
+CS 315
+CS 499W
+end.
+major:Bioinformatics Major, B.S.
+course:0
+CS 171
+CS 172
+CS 273
+CS 355
+CS 374
+CS 472
+CS 473
+MA 171
+MA 172
+MA 256
+MA 278
+MA 281
+MA 430W
+BI 140
+BI 141
+BI 363
+BI 333
+BI 399
+MA 352
+CH 161
+CH 181
+CH 271
+CH 278
+CH 401
+suggested:
+CH 161L
+CH 181L
+CH 271L
+CH 278L
+CH 401L
+PS 151
+PS 151L
+PS 153
+PS 153L
+PS 154L
+end.
+major:Human-Computer Interaction Major, B.A.
+course:0
+CS 171
+CS 172
+CS 274
+CS 344
+AR 101
+AR 120
+AR 124
+AR 323
+AR 324
+AR 326
+couse:31
+CS 273
+CS 301
+CS 320
+CS 371
+CS 372
+CS 376
+course:21
+AR 210
+AR 220
+AR 227
+AR 231
+AR 426
+course:11
+AR 365W
+CS 499W
+CS 475W
+course:12
+CS 390
+AR 390
+course:13
+CS 472
+AR 499H
+suggested:
+CS 313
+CS 314
+CS 357
+CS 360
+end.
+major:Mathematics Minor
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+MA 365
+course:11
+MA 256
+MA 281
+EDU 341
+EDU 454
+end.
+major:Computer Science Minor
+course:0
+CS 171
+CS 172
+CS 273
+CS 278
+CS 301
+CS 374
+course:11
+MA 150
+MA 158
+MA 171
+end.
+major:Information Technology Minor
+course:0
+CS 171
+CS 172
+CS 313
+CS 374
+course:31
+CS 301
+CS 314
+CS 315
+CS 371
+CS 372
+end.
