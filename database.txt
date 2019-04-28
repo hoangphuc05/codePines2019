@@ -1,0 +1,67 @@
+major:Mathematics - General, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 256
+course:21
+MA 317
+MA 357
+MA 410
+MA 430W
+MA 440
+course:31
+MA 281
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 362
+MA 365
+MA 410
+MA 411
+MA 440
+MA 441
+CS 473
+CS 499W
+EN 356
+EN 358
+end.
+major:Mathematics - Education, B.A.
+course:0
+MA 171
+MA 172
+MA 273
+MA 278
+MA 330
+CS 171
+CS 172
+MA 256
+MA 365
+course:11
+MA 357
+MA 410
+MA 440
+course:31
+MA 281
+MA 317
+MA 329
+MA 350
+MA 352
+MA 357
+MA 358W
+MA 360
+MA 362
+MA 410
+MA 411
+MA 430W
+MA 440
+MA 441
+end.
+suggested:

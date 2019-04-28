@@ -91,13 +91,19 @@ r = requests.get("http://catalog.whitworth.edu/undergraduate/mathcomputerscience
 f = open(PATH, "w")
 f.write(r.text)
 
-l = open(path2, "a")
+l = open(path2, "a+")
 
 whitworth = r.text
 i = 0
 for line in whitworth.split("\n"):
     if '"sc_courselist"' in line and i == 0:
-        print(line)
+        #print(line)
         l.write(line+ "\n")
 
+f2 = open("test411.html", 'a')
+l.close()
+l = open(path2, 'r')
+content = l.readline()
+print(content)
+f2.write(content)
 
