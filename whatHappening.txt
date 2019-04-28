@@ -1,0 +1,4 @@
+- the program can retrieve requirement course for one major, including all optional classes
+- the program can get all the class to a (special) list
+
+- format of current list: className['Major name']['Department name'][index]=[class Number]
