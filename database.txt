@@ -1,6 +1,6 @@
 major:Art Major, B.A.
 course:0
-AR 101
+AR 101 Drawing 1
 AR 120
 AR 220
 AR 259
