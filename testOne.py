@@ -1,6 +1,7 @@
 import requests
 import glob, os
 from collections import defaultdict
+from functools import partial
 
 PATH = "test.html"
 r = requests.get("http://catalog.whitworth.edu/undergraduate/mathcomputerscience/")
@@ -12,7 +13,8 @@ f.write(r.text)
 whitworth = r.text
 loc = whitworth.find('"courseblock"')
 
-className = defaultdict(list)
+className = defaultdict(lambda: defaultdict(list))
+
 
 while loc != -1:
     print(whitworth[loc+50:loc+56])
@@ -25,10 +27,10 @@ while loc != -1:
         if int(fullName[3:]) in className[fullName[:2]]:
             print("Repeated!")
         else:
-            className[fullName[:2]].append(int(fullName[3:]))
+            className["Major 1"][fullName[:2]].append(int(fullName[3:]))
     else:
         try:
-            className[fullName[:2]].append(int(fullName[3:]))
+            className["Major 1"][fullName[:2]].append(int(fullName[3:]))
         except:
             print("fail")
 
