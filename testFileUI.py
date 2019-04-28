@@ -232,8 +232,9 @@ def exit():
 
 button = Button(panel, text="Exit", command = exit)
 button.pack(side = "bottom")
-listNodes.pack(side="left", anchor="w", fill="both", pady=25)
 scrollbar.pack(side="right", fill="y")
+listNodes.pack( anchor="w", fill="both", pady=25)
+#scrollbar.pack(side="right", fill="y")
 mainloop()
 
 
